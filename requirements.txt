@@ -1,8 +1,10 @@
 streamlit
-streamlit-autorefresh
 pandas
 numpy
 requests
+matplotlib
+seaborn
 plotly
-pytz
 xlsxwriter
+openpyxl
+scikit-learn
