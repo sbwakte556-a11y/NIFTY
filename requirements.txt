@@ -1,28 +1,13 @@
-streamlit==1.37.1
-pandas==2.2.2
-numpy==1.26.4
-requests==2.32.3
-
-# Excel support (MUST include both)
-openpyxl==3.1.5
-XlsxWriter==3.2.0
-
-# Charts
-matplotlib==3.9.2
-seaborn==0.13.2
-plotly==5.24.0
-
-# ML / Analysis
-scikit-learn==1.5.2
-
-# Zerodha API
-kiteconnect==4.2.0
-
-# Telegram Bot
-python-telegram-bot==13.15
-
-# Scheduler
-schedule==1.2.2
-
-# Finance data
-yfinance==0.2.43
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+requests
+openpyxl
+xlsxwriter
+scikit-learn
+beautifulsoup4
+selenium
+yfinance
