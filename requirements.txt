@@ -1,13 +1,7 @@
 streamlit
 pandas
 numpy
-matplotlib
-seaborn
-plotly
 requests
-openpyxl
-xlsxwriter
-scikit-learn
-beautifulsoup4
-selenium
-yfinance
+plotly
+streamlit-autorefresh
+pytz
